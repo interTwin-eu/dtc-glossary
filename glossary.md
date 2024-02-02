@@ -152,13 +152,14 @@ See [data modeling in digital twin systems](#data-modeling-in-digital-twin-syste
 
 ***Alternate terms***
 
-- "Ontology" is sometimes used as a synonym for "data model", particularly for [data-modeling ontologies](#data-modeling-ontology)
-- "Schema" is sometimes used as a synonym for "data model". DDL defines database schemas. [OData](https://en.wikipedia.org/wiki/Open_Data_Protocol) uses CSDL (Common Schema Definition Language). [RDFS](https://en.wikipedia.org/wiki/RDF_Schema) (Resource Description Framework Schema) is sometimes used in conjunction with [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language) to define data models using a [triple-graph](#data-modeling-paradigm) approach.
+- "Ontology" is sometimes used as a synonym for "data model", particularly for [data-modeling ontologies](#data-modeling-ontology) ***[DE] for us this means the semantic access layer to the data ie mars or polytope***
+- "Schema" is sometimes used as a synonym for "data model". DDL defines database schemas. [OData](https://en.wikipedia.org/wiki/Open_Data_Protocol) uses CSDL (Common Schema Definition Language). [RDFS](https://en.wikipedia.org/wiki/RDF_Schema) (Resource Description Framework Schema) is sometimes used in conjunction with [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language) to define data models using a [triple-graph](#data-modeling-paradigm) approach.***[DE] for us this means the schema in our FDB***
 - "Information Model" is sometimes used as a synonym for "data model", though some parties make subtle distinctions between "information model" and "data model", such as taking it to imply a data model that lies on the "conceptual" end of the implementation spectrum.
 
 The various synonyms of "data model" and the fact that some ontologies can be used as data models can be a significant source of confusion in the design and development of [stored representations](#stored-representation) for [digital twin systems](#digital-twin-system).
 
 ![Data Models and Ontologies](images/DataModel-Ontology.png)
+***[DE] this picture for us is fine we can map it onto our data model and representation. for instance we can have a weather represenatation or an impact representation***
 
 *Back to [Table of Contents](#table-of-contents).*
 
