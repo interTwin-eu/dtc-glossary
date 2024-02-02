@@ -74,7 +74,7 @@ Miriam Webster defines the verb “aggregate” as “to collect or gather into 
 
 ## Computational Representation
 
-> A computational representation is an *executable* [digital representation](#digital-representation) consisting of computational algorithms and supporting data representing some subject matter from a dynamic perspective.
+> A computational representation is an *executable* [digital representation](#digital-representation) consisting of computational algorithms and supporting data representing some subject matter from a dynamic perspective. ***[DE] we interpret this as a simulation versus a model representation, that is more static by defenition***
 
 Examples include simulations and predictive analytics.
 
