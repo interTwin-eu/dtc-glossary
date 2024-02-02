@@ -74,7 +74,7 @@ Miriam Webster defines the verb “aggregate” as “to collect or gather into 
 
 ## Computational Representation
 
-> A computational representation is an *executable* [digital representation](#digital-representation) consisting of computational algorithms and supporting data representing some subject matter from a dynamic perspective. ***[DE] we interpret this as a simulation versus a model representation, that is more static by defenition***
+> A computational representation is an *executable* [digital representation](#digital-representation) consisting of computational algorithms and supporting data representing some subject matter from a dynamic perspective. ***[DE] we interpret this as a simulation versus a model representation, that is more static by definition***
 
 Examples include simulations and predictive analytics.
 
@@ -82,7 +82,7 @@ The subject matter of computational representation is typically a process or a s
 
 When executed (aka “run”), computational representations often take [stored representations](#stored-representation) as input and their computational algorithms produce [stored representations](#stored-representation) as output.
 
-Computational representations may also use reference data, which is really just another example of a [stored representation](#stored-representation).
+Computational representations may also use reference data, which is really just another example of a [stored representation](#stored-representation). ***[DE] we would see reference data more as observational data or sensor data used in data assimilation? its not a full stored representation in our interpretation. for us this needs clarrification***
 
 Examples of computational representations include Finite Element Analysis (FEA) models, Machine Learning models, and various other kinds of simulations based on mathematical equations, including those describing laws of physics and engineering.
 
